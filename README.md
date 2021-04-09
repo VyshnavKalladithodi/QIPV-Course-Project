@@ -27,7 +27,15 @@ An Image Processing Algorithm in MATLAB to:-
 - [] Getting ready for live demonstration
 
 ## Progress
+Author | Detailed Description
+------ | --------------------
+@VyshnavKalladithodi | Tested a simple Algorithm using Edges. The results were fine, but its not applicable in all cases. This Algorithm can be extended under certain circumstances
+@VyshnavKalladithodi | An algortihm which classify objects, due to the property of curvature boundaries. Under test. Lot more optimisation required
 
 ## Major Updates/Pointers
 
+> Pls add any updates or important points concerned with the project
+
 ## References
+
+> All resources are from Mathworks. If you find any other resources please mention it here
