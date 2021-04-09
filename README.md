@@ -28,7 +28,7 @@ An Image Processing Algorithm in MATLAB to:-
 
 ## Progress
 Author  |  Detailed Description
-------  |  --------------------
+--------|  --------------------
 Vyshnav K  | Tested a simple Algorithm using Edges. The results were fine, but its not applicable in all cases. This Algorithm can be extended under certain circumstances
 Vyshnav K  | An algortihm which classify objects, due to the property of curvature boundaries. Under test. Lot more optimisation required
 
