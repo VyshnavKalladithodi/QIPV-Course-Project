@@ -27,11 +27,11 @@ An Image Processing Algorithm in MATLAB to:-
 - [] Getting ready for live demonstration
 
 ## Progress
-Author  |  Detailed Description
---------|  --------------------
-Vyshnav K  | Tested a simple Algorithm using Edges. The results were fine, but its not applicable in all cases. This Algorithm can be extended under certain circumstances
-Vyshnav K  | An algortihm which classify objects, due to the property of curvature boundaries. Under test. Lot more optimisation required
-
+|  Author  |  Detailed Description |
+|----------|  -------------------- |
+|  Vyshnav K  | Tested a simple Algorithm using Edges. The results were fine, but its not applicable in all cases. This Algorithm can be extended under certain circumstances |
+|  Vyshnav K  | An algortihm which classify objects, due to the property of curvature boundaries. Under test. Lot more optimisation required |
+|  Vyshnav K  | Texture Segmentation using Gabor Filter. This algo segmentes certain patterns and textures in the image. We didnt get an expected output. But i think we could segment it by adding certain noise removel filters and correcting the image
 ## Major Updates/Pointers
 
 > Pls add any updates or important points concerned with the project
