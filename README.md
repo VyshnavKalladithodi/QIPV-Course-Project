@@ -14,6 +14,16 @@ An Image Processing Algorithm in MATLAB to:-
 4. Statistical and Machine Learning Toolbox(Optional)
 5. Deep Learning Toolbox(Optional)
 
+## Data Set images
+1. Tissue Paper
+2. Paper Cup
+3. Toffee Wrappers
+4. Soap covers/boxes
+5. Newspaper
+6. Torn Cloth pieces
+7. Cotton Pieces
+8. Chewing gum
+
 ## Deadline
 
 > April 15 2021
