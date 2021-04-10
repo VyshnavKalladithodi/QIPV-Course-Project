@@ -67,7 +67,7 @@ imshowpair(image,Ithresh,'montage');
  Iopenned = imopen(Ifilled,se);
  imshow(Iopenned);
  %%
- Iregion = regionprops(Ioppened,'centroid');
+ Iregion = regionprops(Iopenned,'centroid');
  [labeled,numObjects]=bwlabel(Iopenned,4);
  stats = regionprops(labeled,'Eccentricity','Area','BoundingBox');
  areas = [stats.Area];
