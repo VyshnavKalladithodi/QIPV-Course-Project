@@ -9,7 +9,7 @@ bw = imbinarize(I);
 subplot(2,3,2)
 imshow(bw)
 
-Noise Removel
+%Noise Removel
 bw = bwareaopen(bw,30);
 subplot(2,3,3)
 imshow(bw)
