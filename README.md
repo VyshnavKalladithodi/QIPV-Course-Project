@@ -32,11 +32,11 @@ An Image Processing Algorithm in MATLAB to:-
 
 ## TASKS
 - [x] Create a list of objects
-- [] Create/find a dataset containing the above mentioned situations
-- [] Find a Standard Algorithm
-- [] Optimisation
-- [] Testing
-- [] Getting ready for live demonstration
+- [ ] Create/find a dataset containing the above mentioned situations
+- [ ] Find a Standard Algorithm
+- [ ] Optimisation
+- [ ] Testing
+- [ ] Getting ready for live demonstration
 
 ## Progress
 |  Author  |  Detailed Description |
