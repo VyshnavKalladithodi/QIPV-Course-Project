@@ -31,7 +31,7 @@ An Image Processing Algorithm in MATLAB to:-
 > April 15 2021
 
 ## TASKS
-- [] Create a list of objects
+- [x] Create a list of objects
 - [] Create/find a dataset containing the above mentioned situations
 - [] Find a Standard Algorithm
 - [] Optimisation
