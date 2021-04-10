@@ -24,6 +24,7 @@ An Image Processing Algorithm in MATLAB to:-
 7. Cotton Pieces
 8. Chewing gum
 9. Hair 
+10. Mask
 
 ## Deadline
 
