@@ -33,7 +33,7 @@ An Image Processing Algorithm in MATLAB to:-
 ## TASKS
 - [x] Create a list of objects
 - [x] Create/find a dataset containing the above mentioned situations
-- [x] Find a Standard Algorithm
+- [ ] Find a Standard Algorithm
 - [ ] Optimisation
 - [ ] Testing
 - [ ] Getting ready for live demonstration
