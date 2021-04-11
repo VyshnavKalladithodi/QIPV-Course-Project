@@ -32,7 +32,7 @@ An Image Processing Algorithm in MATLAB to:-
 
 ## TASKS
 - [x] Create a list of objects
-- [x] Create/find a dataset containing the above mentioned situations
+- [ ] Create/find a dataset containing the above mentioned situations
 - [ ] Find a Standard Algorithm
 - [ ] Optimisation
 - [ ] Testing
@@ -43,7 +43,9 @@ An Image Processing Algorithm in MATLAB to:-
 |----------|  -------------------- |
 |  Vyshnav K  | Tested a simple Algorithm using Edges. The results were fine, but its not applicable in all cases. This Algorithm can be extended under certain circumstances |
 |  Vyshnav K  | An algortihm which classify objects, due to the property of curvature boundaries. Under test. Lot more optimisation required |
-|  Vyshnav K  | Texture Segmentation using Gabor Filter. This algo segmentes certain patterns and textures in the image. We didnt get an expected output. But i think we could segment it by adding certain noise removel filters and correcting the image
+|  Vyshnav K  | Texture Segmentation using Gabor Filter. This algo segmentes certain patterns and textures in the image. We didnt get an expected output. But i think we could segment it by adding certain noise removel filters and correcting the image |
+| Vismay Chand| The Code Image_Processing.m is able to detect objects with less accuracy using techniques such as Contrast Stretching, Histogram Equalisation, Decorrelation Stretch, Region properties with less accuracy. Further Refining and sequencing of the code is required. |
+| Vismay Chand| The Code Testing_2.m is a much more simplified of the above code and has attained a much more accuracy in object detection, but the program detects wrong objects in the case of external light effects and irregular background.
 ## Major Updates/Pointers
 
 > Pls add any updates or important points concerned with the project
