@@ -54,4 +54,5 @@ An Image Processing Algorithm in MATLAB to:-
 ## References
 
 > All resources are from Mathworks. If you find any other resources please mention it here
-> Paper on Trash picking using deep learning:https://core.ac.uk/download/pdf/345094494.pdf
+
+- Paper on Trash picking using deep learning:https://core.ac.uk/download/pdf/345094494.pdf
