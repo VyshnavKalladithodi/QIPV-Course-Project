@@ -21,9 +21,9 @@ An Image Processing Algorithm in MATLAB to:-
 4. Soap covers/boxes
 5. Newspaper
 6. Torn Cloth pieces
-7. Cotton Pieces
-8. Chewing gum
-9. Hair 
+~~7. Cotton Pieces~~
+~~8. Chewing gum ~~
+~~9. Hair  ~~
 10. Mask
 
 ## Deadline
@@ -33,7 +33,7 @@ An Image Processing Algorithm in MATLAB to:-
 ## TASKS
 - [x] Create a list of objects
 - [x] Create/find a dataset containing the above mentioned situations
-- [ ] Find a Standard Algorithm
+- [x] Find a Standard Algorithm
 - [ ] Optimisation
 - [ ] Testing
 - [ ] Getting ready for live demonstration
