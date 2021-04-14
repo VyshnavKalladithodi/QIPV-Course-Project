@@ -48,6 +48,7 @@ An Image Processing Algorithm in MATLAB to:-
 | Vismay Chand| The Code Testing_2.m is a much more simplified of the above code and has attained a much more accuracy in object detection, but the program detects wrong objects in the presence of external light effects and irregular background.
 |  Sukesh J R  | All the images are uploaded |
 | Vismay Chand | The Code "Working_3.m" is much more accurate than the previous code, but the shadow removing function is not implemented in this code as shadow removal causes the decraese in object's contrast which makes past detected images undetectable.Currently Ony Tissue Papers are only purely detectable |
+| Vismay Chand | The cdoe "Testing_5.m" is improvised "working_3.m" with shadow removing function|
 ## Major Updates/Pointers
 
 > Pls add any updates or important points concerned with the project
