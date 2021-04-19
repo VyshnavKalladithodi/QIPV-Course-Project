@@ -50,6 +50,7 @@ An Image Processing Algorithm in MATLAB to:-
 | Vismay Chand | The Code "Working_3.m" is much more accurate than the previous code, but the shadow removing function is not implemented in this code as shadow removal causes the decraese in object's contrast which makes past detected images undetectable.Currently Ony Tissue Papers are only purely detectable |
 | Vismay Chand | The Code "Testing_5.m" is improvised "working_3.m" with shadow removing function|
 | Vismay Chand | The Code "Testing_10.m" has used the extraction of the Blue plane out of the image as majority of the object's colour lies in the blue region of the spectrum (This code works perfectly for the detecting the mask) |
+| Vismay Chand | This code can be considered as the final code from me |
 ## Major Updates/Pointers
 
 > Pls add any updates or important points concerned with the project
