@@ -21,10 +21,7 @@ An Image Processing Algorithm in MATLAB to:-
 4. Soap covers/boxes
 5. Newspaper
 6. Torn Cloth pieces
-~~7. Cotton Pieces~~
-~~8. Chewing gum~~
-~~9. Hair~~
-10. Mask
+7. Mask
 
 ## Deadline
 
@@ -34,21 +31,23 @@ An Image Processing Algorithm in MATLAB to:-
 - [x] Create a list of objects
 - [x] Create/find a dataset containing the above mentioned situations
 - [x] Find a Standard Algorithm
-- [ ] Optimisation
-- [ ] Testing
-- [ ] Getting ready for live demonstration
+- [x] Optimisation
+- [x] Testing
+- [x] Getting ready for live demonstration
 
 ## Progress
 |  Author  |  Detailed Description |
 |----------|  -------------------- |
-|  Vyshnav K  | Tested a simple Algorithm using Edges. The results were fine, but its not applicable in all cases. This Algorithm can be extended under certain circumstances |
-|  Vyshnav K  | An algortihm which classify objects, due to the property of curvature boundaries. Under test. Lot more optimisation required |
-|  Vyshnav K  | Texture Segmentation using Gabor Filter. This algo segmentes certain patterns and textures in the image. We didnt get an expected output. But i think we could segment it by adding certain noise removel filters and correcting the image |
+|  Vyshnav K  | 'edgeDetection.m' is a simple algorithm for edge detection of objects. The results were fine only for a few images. The main obstacle in Edge detection algorithm was the removal of noise. Since the images are taken in toilet background, there would be other distinct features like tiles etc... So by this code we were not able to specifically indentify the waste materials. |
+|  Vyshnav K  | 'curvature.m' is an algortihm which classify objects, due to the property of curvature boundaries. Since the objects of our interest include trash which are either crumbled or crushed, the assumptions was supposed to work. On testing this from our dataset, it didnt give expected results. The issue we faced was the disorderd high-low brigthness in the image. Due to certain region of high brightness in the images, it formed nebula shaped structure which was detected as trash by the program |
+|  Vyshnav K  | 'textureGabourFIlter' implements the famous Texture Segmentation using Gabor Filter. This algo segmentes certain patterns and textures in the image. Upon testing we didnt get an expected output. The unwanted noise and disorede intensity in the image, where destroying the actual texture from the image. We have to work more on Color correction, Image Enhancement and Noise Removal to optimise it. |
 | Vismay Chand| The Code Image_Processing.m is able to detect objects with less accuracy using techniques such as Contrast Stretching, Histogram Equalisation, Decorrelation Stretch, Region properties with less accuracy. Further Refining and sequencing of the code is required. |
 | Vismay Chand| The Code Testing_2.m is a much more simplified of the above code and has attained a much more accuracy in object detection, but the program detects wrong objects in the presence of external light effects and irregular background.
 |  Sukesh J R  | All the images are uploaded |
 | Vismay Chand | The Code "Working_3.m" is much more accurate than the previous code, but the shadow removing function is not implemented in this code as shadow removal causes the decraese in object's contrast which makes past detected images undetectable.Currently Ony Tissue Papers are only purely detectable |
 | Vismay Chand | The Code "Testing_5.m" is improvised "working_3.m" with shadow removing function|
+| Vyshnav K | 'decorrelation.m' |
+| Vyshnav K | 'hsvplane.m' |
 | Vismay Chand | The Code "Testing_10.m" has used the extraction of the Blue plane out of the image as majority of the object's colour lies in the blue region of the spectrum (This code works perfectly for the detecting the mask) |
 | Vismay Chand | This code can be considered as the final code from me |
 ## Major Updates/Pointers
