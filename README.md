@@ -72,7 +72,7 @@ A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which 
 
 > Pls add any updates or important points concerned with the project
 
-20-April-2021: \n
+20-April-2021:
 The Testing_11.m Algorithm developed by @VismayChand gave a very good result in more than 18 images from the dataset :partying_face::partying_face:. 
 
 ## References
