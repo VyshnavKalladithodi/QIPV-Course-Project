@@ -48,6 +48,7 @@ An Image Processing Algorithm in MATLAB to:-
 | Vismay Chand | The Code "Working_3.m" is much more accurate than the previous code, but the shadow removing function is not implemented in this code as shadow removal causes the decraese in object's contrast which makes past detected images undetectable.Currently Ony Tissue Papers are only purely detectable |
 |  Sukesh J R  | Checked the color correction algorithm but did not work properly as it filters out more all green and red but takes blue lines from both image and background and detects both the image and bacground with testing_3.m|
 | Joseph M | Data set with more contrasting black background created |
+| Joseph M | Attempted to use a pre existing code of transfer learning with our images, but the lack of enough images didn't give us favourable results | 
 | Vismay Chand | The Code "Testing_5.m" is improvised "working_3.m" with shadow removing function|
 |           | 'decorrelation.m' De-Correlation Stretch is a visual Enhancement to the image. Upon testing this method only gave results to a few cases |
 |           | 'colourSegmentation.m' This is a reference code from Math Works which segments RGB color planes for feature extraction. Upon testing in the datset, it gave few expected output. The issue we faced was the noise and intensity of the image|
