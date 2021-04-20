@@ -83,3 +83,5 @@ The Testing_11.m Algorithm developed by @VismayChand gave a very good result in 
 - Feature Extraction Techniques:https://ijarcce.com/upload/2017/si/ICACTRP-17/IJARCCE-ICACTRP%2029.pdf
 - Feature Extraction:https://ieeexplore.ieee.org/document/6783417
 - Feature Extraction:http://www.ijsrp.org/research-paper-0416/ijsrp-p5250.pdf
+- CNN:https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
+- CNN:https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
