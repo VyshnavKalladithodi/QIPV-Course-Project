@@ -44,8 +44,10 @@ An Image Processing Algorithm in MATLAB to:-
 | Vismay Chand| The Code Image_Processing.m is able to detect objects with less accuracy using techniques such as Contrast Stretching, Histogram Equalisation, Decorrelation Stretch, Region properties with less accuracy. Further Refining and sequencing of the code is required. |
 | Vismay Chand| The Code Testing_2.m is a much more simplified of the above code and has attained a much more accuracy in object detection, but the program detects wrong objects in the presence of external light effects and irregular background.
 |  Sukesh J R  |Initial Data Set Created with tissues, toffee wrapers, etc|
+| Joseph M | Additional data sets created with tissues, bottles , soap bars and empty handwash container |
 | Vismay Chand | The Code "Working_3.m" is much more accurate than the previous code, but the shadow removing function is not implemented in this code as shadow removal causes the decraese in object's contrast which makes past detected images undetectable.Currently Ony Tissue Papers are only purely detectable |
 |  Sukesh J R  | Checked the color correction algorithm but did not work properly as it filters out more all green and red but takes blue lines from both image and background and detects both the image and bacground with testing_3.m|
+| Joseph M | Data set with more contrasting black background created |
 | Vismay Chand | The Code "Testing_5.m" is improvised "working_3.m" with shadow removing function|
 |           | 'decorrelation.m' De-Correlation Stretch is a visual Enhancement to the image. Upon testing this method only gave results to a few cases |
 |           | 'colourSegmentation.m' This is a reference code from Math Works which segments RGB color planes for feature extraction. Upon testing in the datset, it gave few expected output. The issue we faced was the noise and intensity of the image|
