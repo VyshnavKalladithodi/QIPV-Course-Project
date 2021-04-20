@@ -61,18 +61,18 @@ An Image Processing Algorithm in MATLAB to:-
 
 A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which can take in an input image, assign importance (learnable weights and biases) to various aspects/objects in the image and be able to differentiate one from the other. There are 3 major parts of AlexNet which is a popular Cnn
 
-Convolutional layers:The objective of the Convolution Operation is to extract the high-level features such as edges, from the input image.
+- Convolutional layers: The objective of the Convolution Operation is to extract the high-level features such as edges, from the input image.
 
-Pooling layer: Similar to the Convolutional Layer, the Pooling layer is responsible for reducing the spatial size of the Convolved Feature. This is to decrease the computational power required to process the data through dimensionality reduction. Furthermore, it is useful for extracting dominant features which are rotational and positional invariant, thus maintaining the process of effectively training of the model.
+- Pooling layer: Similar to the Convolutional Layer, the Pooling layer is responsible for reducing the spatial size of the Convolved Feature. This is to decrease the computational power required to process the data through dimensionality reduction. Furthermore, it is useful for extracting dominant features which are rotational and positional invariant, thus maintaining the process of effectively training of the model.
 
-Fully connected layer:Adding a Fully-Connected layer is a (usually) cheap way of learning non-linear combinations of the high-level features as represented by the output of the convolutional layer. The Fully-Connected layer is learning a possibly non-linear function in that space.
+- Fully connected layer: Adding a Fully-Connected layer is a (usually) cheap way of learning non-linear combinations of the high-level features as represented by the output of the convolutional layer. The Fully-Connected layer is learning a possibly non-linear function in that space.
 
 
 ## Major Updates/Pointers
 
 > Pls add any updates or important points concerned with the project
 
-20-April-2021
+20-April-2021: \n
 The Testing_11.m Algorithm developed by @VismayChand gave a very good result in more than 18 images from the dataset :partying_face::partying_face:. 
 
 ## References
