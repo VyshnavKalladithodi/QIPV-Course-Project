@@ -57,7 +57,7 @@ An Image Processing Algorithm in MATLAB to:-
 | Vismay Chand | The Code "Testing_10.m" has used the extraction of the Blue plane out of the image as majority of the object's colour lies in the blue region of the spectrum (This code works perfectly for the detecting the mask) |
 | Vismay Chand | This code can be considered as the final code from me |
 
-##Deep Learning
+## Deep Learning
 
 A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which can take in an input image, assign importance (learnable weights and biases) to various aspects/objects in the image and be able to differentiate one from the other. There are 3 major parts of AlexNet which is a popular Cnn
 
