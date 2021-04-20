@@ -43,11 +43,13 @@ An Image Processing Algorithm in MATLAB to:-
 |  Vyshnav K  | 'textureGabourFIlter' implements the famous Texture Segmentation using Gabor Filter. This algo segmentes certain patterns and textures in the image. Upon testing we didnt get an expected output. The unwanted noise and disordered intensity in the image, where destroying the actual texture from the image. We have to work more on Color correction, Image Enhancement and Noise Removal to optimise it. |
 | Vismay Chand| The Code Image_Processing.m is able to detect objects with less accuracy using techniques such as Contrast Stretching, Histogram Equalisation, Decorrelation Stretch, Region properties with less accuracy. Further Refining and sequencing of the code is required. |
 | Vismay Chand| The Code Testing_2.m is a much more simplified of the above code and has attained a much more accuracy in object detection, but the program detects wrong objects in the presence of external light effects and irregular background.
-|  Sukesh J R  | All the images are uploaded |
+|  Sukesh J R  |Initial Data Set Created with tissues, toffee wrapers, etc|
 | Vismay Chand | The Code "Working_3.m" is much more accurate than the previous code, but the shadow removing function is not implemented in this code as shadow removal causes the decraese in object's contrast which makes past detected images undetectable.Currently Ony Tissue Papers are only purely detectable |
+|  Sukesh J R  | Checked the color correction algorithm but did not work properly as it filters out more all green and red but takes blue lines from both image and background and detects both the image and bacground with testing_3.m|
 | Vismay Chand | The Code "Testing_5.m" is improvised "working_3.m" with shadow removing function|
 |           | 'decorrelation.m' De-Correlation Stretch is a visual Enhancement to the image. Upon testing this method only gave results to a few cases |
 |           | 'colourSegmentation.m' This is a reference code from Math Works which segments RGB color planes for feature extraction. Upon testing in the datset, it gave few expected output. The issue we faced was the noise and intensity of the image|
+|  Sukesh J R  | Final Data Set Created with more data with paper cups and masks in various angles|
 | Vyshnav K | 'hsvplane.m' This code segments colour plane, similar to the previous code, but segments HSV Planes. This algorithm gave great outputs. But we had to tweak the hsv levels for each image to get proper output.|
 | Vismay Chand | The Code "Testing_10.m" has used the extraction of the Blue plane out of the image as majority of the object's colour lies in the blue region of the spectrum (This code works perfectly for the detecting the mask) |
 | Vismay Chand | This code can be considered as the final code from me |
