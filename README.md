@@ -23,10 +23,6 @@ An Image Processing Algorithm in MATLAB to:-
 6. Torn Cloth pieces
 7. Mask
 
-## Deadline
-
-> April 15 2021
-
 ## TASKS
 - [x] Create a list of objects
 - [x] Create/find a dataset containing the above mentioned situations
